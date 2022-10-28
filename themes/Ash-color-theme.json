@@ -1,0 +1,41 @@
+{
+	"name": "Ash",
+	"colors": {
+		"activityBar.activeBackground": "#3a2e3d",
+		"activityBar.background": "#2b212e",
+		"sideBar.background": "#1b131b",
+		"sideBar.foreground": "#afb1cf",
+		"sideBarSectionHeader.background": "#171018",
+		"editor.background": "#221925",
+		"editor.foreground": "#afb1cf",
+		"activityBarBadge.background": "#41d3bd",
+		"sideBarTitle.foreground": "#bbbbbb",
+		"editorGroupHeader.tabsBackground": "#231924",
+		"input.background": "#281e2b"
+	},
+	"semanticHighlighting": true,
+	"semanticTokenColors": {
+		"*": { "foreground": "#a7ceda" },
+		"*.declaration": { "bold": true },
+		"*.mutable": { "underline": true },
+		"selfKeyword": { "foreground": "#00ffd5", "bold": true },
+		"selfParameter": { "foreground": "#00ffd5", "bold": true },
+		"selfTypeKeyword": { "foreground": "#00ffd5", "bold": true },
+		"enum": "#68a2ad",
+		"struct": "#68a2ad",
+		"enumMember": "#74afbb",
+		"string": "#6bbb78",
+		"lifetime": "#68a2ad",
+		"function": "#d1ad80",
+		"method": "#d1ad80",
+		"parameter": "#e2dad1",
+		"property": "#a7ceda",
+		"keyword": "#fcd29f",
+		"type": "#95e5d9",
+		"macro": "#3f8ac7",
+		"operator": "#4da5ee",
+		"*.deprecated": { "strikethrough": true },
+		"comment": { "foreground": "#ac9486", "italic": true},
+		"namespace": "#ac9486"
+	}
+}
